@@ -55,7 +55,7 @@
 <br>
 <br>
 
-<a href="https://github.com/iampawan/myPortfolio.github.io">
+<a href="https://github.com/Wev-Dev-Bibhu/myPortfolio.github.io">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wev-Dev-Bibhu&repo=myPortfolio.github.io&theme=light" />
 </a>
 
