@@ -31,7 +31,7 @@
 <br/>
 
 
-- 🌱 I’m currently learning more about Machine Learning.
+- 🌱 I’m currently learning more about React JS.
 - 💬 Ask me about Website Development or any tech-related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours listening to songs every day.
